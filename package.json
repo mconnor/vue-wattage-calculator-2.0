@@ -1,6 +1,7 @@
 {
   "name": "vue-wattage-calculator",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "repository": "https://github.com/mconnor/vue-wattage-calculator-2.0",
   "description": "A Vue.js project",
   "author": "mike connor <mike@rocketnumber9.org>",
   "private": true,
