@@ -8,10 +8,10 @@
       </header>
       <div class="card-content">
             <main :class='mainClass'>
-                  <bulb type='incandescent' :klass='inc' :wattage='inc_wattage' :tcost='inc_tcost'></bulb>
-                  <bulb type='halogen' :klass='hal' :wattage='hal_wattage' :tcost='hal_tcost'></bulb>
-                  <bulb type='cfl' :klass='cfl' :wattage='cfl_wattage' :tcost='cfl_tcost'></bulb>
-                  <bulb type='led' :klass='led' :wattage='led_wattage' :tcost='led_tcost'></bulb>
+                  <bulb type='incandescent' :klass='inc' :wattage='inc_wattage' :tcost='inc_tcost' />
+                  <bulb type='halogen' :klass='hal' :wattage='hal_wattage' :tcost='hal_tcost' />
+                  <bulb type='cfl' :klass='cfl' :wattage='cfl_wattage' :tcost='cfl_tcost' />
+                  <bulb type='led' :klass='led' :wattage='led_wattage' :tcost='led_tcost' />
             </main>
             <form>
                   <div>
